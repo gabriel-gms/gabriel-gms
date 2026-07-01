@@ -1,36 +1,33 @@
-## Sobre mim
+# Hi there, I'm Gabriel Gomes 👋
 
-- 🤔 Explorando novas tecnologias e soluções de software.
-- 🎓 Estudando Engenharia de Software.
+### Full Stack Developer from Brazil 🇧🇷
 
-## Minhas Skills
+I build modern web applications using PHP and TypeScript, always focusing on clean code, performance and scalable solutions.
 
-**Linguagens e frameworks**
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
-![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=dotnet)
-![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django)
+## 💻 Tech Stack
 
+### Languages
 
-**Banco de dados**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,ts" />
+</p>
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+### Frameworks
 
-**Testes**
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,express" />
+</p>
 
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+### Databases
 
-**Utilidades**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+### Testing
 
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
