@@ -45,7 +45,3 @@ I build modern web applications using PHP and TypeScript, always focusing on cle
 </p>
 
 <p>Jest</p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
