@@ -10,38 +10,30 @@ I build modern web applications using PHP and TypeScript, always focusing on cle
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,ts" />
-</p>
-
-<p>PHP • TypeScript</p>
+| ![PHP](https://skillicons.dev/icons?i=php) | ![TypeScript](https://skillicons.dev/icons?i=ts) |
+| --- | --- |
+| PHP | TypeScript |
 
 ---
 
 ### Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,express" />
-</p>
-
-<p>Laravel • React.js • Next.js • Express</p>
+| ![Laravel](https://skillicons.dev/icons?i=laravel) | ![ReactJs](https://skillicons.dev/icons?i=react) | ![NextJs](https://skillicons.dev/icons?i=nextjs) | ![Express](https://skillicons.dev/icons?i=express) |
+| --- | --- | --- | --- |
+| Laravel | React.Js | Next.Js | Express |
 
 ---
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-<p>PostgreSQL • MySQL • SQLite</p>
+| ![Postgre](https://skillicons.dev/icons?i=postgres) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![SQLite](https://skillicons.dev/icons?i=sqlite) |
+| --- | --- | --- |
+| PostgreSQL | MySQL | SQLite |
 
 ---
 
 ### Testing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jest" />
-</p>
-
-<p>Jest</p>
+| ![Jest](https://skillicons.dev/icons?i=jest) |
+| --- |
+| Jest |
